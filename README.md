@@ -14,6 +14,20 @@ This repository contains five comprehensive templates that cover the complete de
 
 Each template is structured as a series of epics with detailed user stories, acceptance criteria, and clarification questions to ensure thorough planning and execution for any project domain.
 
+## 🎯 **Example Implementation**
+
+**📁 [TaskFlow AI](./taskflow-ai/)** - A complete example implementation demonstrating how to use these templates in a real-world project. This AI-powered task management platform shows:
+
+- ✅ How to structure a modern full-stack application
+- ✅ Epic breakdown and story implementation
+- ✅ Integration between frontend, backend, and database templates
+- ✅ Best practices for scalable development
+
+**🎓 Learning Resources:**
+- [`taskflow-ai/README.md`](./taskflow-ai/README.md) - Project overview and setup
+- [`taskflow-ai/TEMPLATE_MAPPING.md`](./taskflow-ai/TEMPLATE_MAPPING.md) - How each template maps to implementation
+- [`taskflow-ai/docs/TEMPLATE_IMPLEMENTATION_GUIDE.md`](./taskflow-ai/docs/TEMPLATE_IMPLEMENTATION_GUIDE.md) - Step-by-step implementation guide
+
 ## 🚀 Quick Start
 
 1. **Choose your template** based on your development focus
